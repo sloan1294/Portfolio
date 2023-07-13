@@ -3,6 +3,8 @@ import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 
 
 
+
+
 const Navbar = () => {
   const [nav, setNav] = useState(false);
 
@@ -11,8 +13,10 @@ const Navbar = () => {
     setNav(!nav);
   };
 
+ 
+
   return (
-    <div className="md:sticky top-0 bg-[#000300] border-b border-[#49c5b6]">
+    <div className="z-10 md:sticky top-0 bg-[#000300] border-b border-[#49c5b6]">
       
       <div className="flex justify-between items-center h-24 max-w-[1650px] mx-auto px-4 font-bold text-[#49c5b6]">
         <h1 className=" w-full pr-22 text-4xl font-bold text-[#49c5b6] ">
@@ -38,7 +42,7 @@ const Navbar = () => {
             </a>
           </li>
           <li className="p-4">
-            <a href="#about" className="text-[20px] font-bold font-['Segoe_UI'] hover:text-green-400">
+          <a href="#contact" className="text-[20px] font-bold font-['Segoe_UI'] hover:text-green-400">
               Contact
             </a>
           </li>
@@ -62,6 +66,7 @@ const Navbar = () => {
           <li className="p-4 border-b border-gray-600">Testimonials</li>
         </ul>
       </div>
+
     </div>
   );
 };

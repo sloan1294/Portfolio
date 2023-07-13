@@ -2,6 +2,7 @@ import React from "react";
 import Port from "../assets/port.jpg";
 
 
+
 export default function About() {
   return (
     <section id="about" className="pt-4">
@@ -30,7 +31,7 @@ export default function About() {
         </div>
         <div className="flex justify-center rotate-[-15deg] lg:max-w-lg lg:w-full md:w-1/2 w-[5/6] ">
           <img
-            className="object-cover object-center h-110 rounded-full border-solid border-2 border-[#49c5b6]"
+            className="h-110 rounded-full border-solid border-2 border-[#49c5b6]"
             alt="hero"
             src={Port}
           />
