@@ -7,6 +7,7 @@ import {
 } from "react-icons/io";
 import { FaReact, FaNode } from "react-icons/fa";
 import { SiTailwindcss, SiBootstrap } from "react-icons/si";
+import "./components.css"
 
 
 

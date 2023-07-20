@@ -1,0 +1,4 @@
+.bgc{
+    background: rgb(0,3,0);
+    background: linear-gradient(0deg, rgba(0,3,0,1) 0%, rgba(73,197,182,1) 21%, rgba(3,11,7,1) 44%);
+}
