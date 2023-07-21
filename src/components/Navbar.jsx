@@ -53,17 +53,17 @@ const Navbar = () => {
         <ul
           className={
             nav
-              ? "fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#000300] ease-in-out duration-500"
+              ? "z-10 fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#000300] ease-in-out duration-500"
               : "ease-in-out duration-500 fixed left-[-100%]"
           }
         >
           <h1 className="w-full text-3xl font-bold text-[#49c5b6] m-4">
             Ashton Sloan.
           </h1>
-          <li className="p-4 border-b border-gray-600">Home</li>
-          <li className="p-4 border-b border-gray-600">Projects</li>
-          <li className="p-4 border-b border-gray-600">Skills</li>
-          <li className="p-4 border-b border-gray-600">Testimonials</li>
+          <li className="p-4 border-b border-gray-600"><a onClick={handleNav} href="#skills">Home</a></li>
+          <li className="p-4 border-b border-gray-600"><a onClick={handleNav}  href="#projects">Projects</a></li>
+          <li className="p-4 border-b border-gray-600"><a onClick={handleNav}  href="#about">About</a></li>
+          <li className="p-4 border-b border-gray-600"><a onClick={handleNav} href="#contact">Contact</a></li>
         </ul>
       </div>
 
