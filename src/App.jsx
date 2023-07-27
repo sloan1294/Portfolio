@@ -5,6 +5,7 @@ import Projects from "./components/Projects";
 import About from "./components/About";
 import Contact from "./components/Contact";
 
+
 const App = () => {
   return (
     <main>
@@ -12,7 +13,7 @@ const App = () => {
       <Hero />
       <Projects />
       <About />
-     <Contact />
+      <Contact />
     </main>
   );
 }

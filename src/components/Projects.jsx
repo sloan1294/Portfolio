@@ -62,17 +62,17 @@ const Projects = () => {
           />
           <div class="px-2 py-6">
             <div class="font-bold text-center text-xl mb-5 text-[#49c5b6]">
-              <p >Oakley.</p>
+              <p >Z-Adventures.</p>
               <p className="max-[550px]:px-10">An innovative way to experience the outdoors.</p>
             </div>
             <p className="max-[550px]:px-10 text-white text-center text-base m-6">
-              Oakley is an adventure oriented equipment store. Having all items
+              Z-Adventures is an adventure oriented equipment store. Having all items
               from heavy duty boots to Winter jackets we provide for any
               environment imaginable.
             </p>
             <p className="text-white text-center text-base mb-1 pt-2 max-[550px]:px-10">
-              <b className="text-[#49c5b6]">Challanges: </b> Oakley is a project
-              I built to understand HTML/PUG landing pages, while also having a
+              <b className="text-[#49c5b6]">Challanges: </b> Z-Adventures is a project
+              I built to understand HTML/PUG landing pages better, while also having a
               reason to build a working cart. This turned out to be quite the
               challange for me. A few(maybe 12) hours later I finally walked
               away with a soultion I was satisfied with!
