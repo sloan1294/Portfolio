@@ -13,20 +13,20 @@ export default function About() {
               <div className="border-b border-solid border-2"></div>
             </h1>
             <p className="max-[550px]:w-full mb-8 leading-relaxed text-[#49c5b6] text-2xl w-full">
-            I use leading frameworks to build the best products I possibly
-              can. Whether that be using Tailwind to implement a cleaner design
-              or React to truly create a responsive website I guarantee I would
-              make a valuable addition to your team! 
-              </p>
-              <div className="border-b border-4 border-[#49c5b6]"></div>
-              <p className="mb-8 leading-relaxed text-[#49c5b6] text-xl">
-              Bio: I worked in the
-              service industry for years. Whether it be server, bartender, or
-              manager I've worked as them all. Dealing with people always came
-              naturally to me, but it has never been something I strived to do
-              on such a consistent basis. Working on code not only allowed me to
-              discover my passion for problem-solving, but it also allowed me to
-              be in a space that I created.
+              I am a self-taught front-end developer. I primarily focus on
+              writing clean, elegant, and efficient code. I am proficient in
+              HTML, CSS, JavaScript and WordPress. I can review existing code
+              and can consult with you on how to improve it.
+            </p>
+            <div className="border-b border-4 border-[#49c5b6]"></div>
+            <p className="mb-8 leading-relaxed text-[#49c5b6] text-xl">
+              Bio: I worked in the service industry for years. Whether it be
+              server, bartender, or manager I've worked as them all. Dealing
+              with people always came naturally to me, but it has never been
+              something I strived to do on such a consistent basis. Working on
+              code not only allowed me to discover my passion for
+              problem-solving, but it also allowed me to be in a space that I
+              created.
             </p>
             <div className="flex justify-center">
               <button>

@@ -74,7 +74,7 @@ const Projects = () => {
               <b className="text-[#49c5b6]">Challanges: </b> Z-Adventures is a project
               I built to understand HTML/PUG landing pages better, while also having a
               reason to build a working cart. This turned out to be quite the
-              challange for me. A few(maybe 12) hours later I finally walked
+              challange for me. Hours later I finally walked
               away with a soultion I was satisfied with!
             </p>
           </div>
