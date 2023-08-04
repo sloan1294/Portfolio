@@ -79,11 +79,11 @@ const Projects = () => {
               environment imaginable.
             </p>
             <p className="text-white text-center text-base mb-1 pt-2 max-[550px]:px-10">
-              <b className="text-[#49c5b6]">Challanges: </b> Z-Adventures is a
-              project I built to understand HTML/PUG landing pages better, while
+              <b className="text-[#49c5b6]">Challenges: </b> Z-Adventures is a
+              project I built to React and TypeScript better, while
               also having a reason to build a working cart. This turned out to
-              be quite the challange for me. Hours later I finally walked away
-              with a soultion I was satisfied with!
+              be quite the challenge for me. Day later I finally walked away
+              with a solution I was satisfied with, and this is the final product!
             </p>
           </div>
           <div className="flex justify-center">
