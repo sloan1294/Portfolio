@@ -102,13 +102,13 @@ const Projects = () => {
           </div>
           <div class="text-center px-10">
             <span class="inline-block bg-[#49c5b6] rounded-full px-6 py-1 text-sm font-bold text-[#000300] mr-2 mb-10 mt-2">
-              #HTML/PUG
+              #TypeScript
             </span>
             <span class="inline-block bg-[#49c5b6] rounded-full px-3 py-1 text-sm font-bold text-[#000300] mr-2 mb-10 mt-2">
-              #JS
+              #React
             </span>
             <span class="inline-block bg-[#49c5b6] rounded-full px-3 py-1 text-sm font-bold text-[#000300] mr-2 mb-10 mt-2">
-              #CSS
+              #Tailwind
             </span>
           </div>
         </div>
