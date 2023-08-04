@@ -74,13 +74,13 @@ const Projects = () => {
               </p>
             </div>
             <p className="max-[550px]:px-10 text-white text-center text-base m-6">
-              Z-Adventures is an adventure oriented equipment store. Having all
+              (No Template) Z-Adventures is an adventure oriented equipment store. Having all
               items from heavy duty boots to Winter jackets we provide for any
               environment imaginable.
             </p>
             <p className="text-white text-center text-base mb-1 pt-2 max-[550px]:px-10">
               <b className="text-[#49c5b6]">Challenges: </b> Z-Adventures is a
-              project I built to React and TypeScript better, while
+              project I built to understand React and TypeScript better, while
               also having a reason to build a working cart. This turned out to
               be quite the challenge for me. Day later I finally walked away
               with a solution I was satisfied with, and this is the final product!
