@@ -79,10 +79,10 @@ const Projects = () => {
             </p>
           </div>
           <div className="flex justify-center">
-            <a href="https://tubular-platypus-b4c5ab.netlify.app/" className="bunk text-white bg-[#49c5b6] hover:bg-green-400 font-bold py-2 px-8 m-5 rounded-lg ">
+            <a href="https://main--radiant-crumble-ae8f74.netlify.app/" className="bunk text-white bg-[#49c5b6] hover:bg-green-400 font-bold py-2 px-8 m-5 rounded-lg ">
               Live Site
             </a>
-            <a href="https://github.com/sloan1294/Comsite" className="bunk text-white bg-[#49c5b6] hover:bg-green-400 font-bold py-2 px-9 m-5 rounded-lg ">
+            <a href="https://github.com/sloan1294/Z-Adventures" className="bunk text-white bg-[#49c5b6] hover:bg-green-400 font-bold py-2 px-9 m-5 rounded-lg ">
               Github
             </a>
           </div>
