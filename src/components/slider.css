@@ -1,0 +1,23 @@
+.slides .slick-prev,
+.slides .slick-next {
+
+}
+
+.slides {
+  position: relative;
+}
+
+.slides .slick-prev,
+.slides .slick-next {
+  position: absolute;
+  top: 90%;
+  z-index:1;
+}
+
+.slides .slick-prev {
+  left: 1%;
+}
+
+.slides .slick-next {
+  right: 5%;
+}
